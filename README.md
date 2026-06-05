@@ -30,3 +30,6 @@ A list of community maintained metal tools, frameworks, libraries and resources
 - <a href="https://github.com/Harperbot/metal-guard">metal-guard</a> - MetalGuard is a GPU safety layer for MLX on Apple Silicon which prevents MLX models from rebooting your mac on kernel-panics.
 
 - <a href="https://github.com/ssmall256/demucs-mlx">demucs-mlx</a> - Split any song into its individual stems — vocals, drums, bass, and other instruments — directly on your Mac.
+
+## Something is missing?
+If you want to add a missing library, framework, tool simply open a pull request.
