@@ -30,6 +30,7 @@ A list of community maintained metal tools, frameworks, libraries and resources
 - <a href="https://github.com/Harperbot/metal-guard">metal-guard</a> - MetalGuard is a GPU safety layer for MLX on Apple Silicon which prevents MLX models from rebooting your mac on kernel-panics.
 
 - <a href="https://github.com/ssmall256/demucs-mlx">demucs-mlx</a> - Split any song into its individual stems — vocals, drums, bass, and other instruments — directly on your Mac.
+- <a href="https://github.com/tudor-22/MetalML">MetalML</a> - an experimental, scikit-learn-compatible Python library (Apache-2.0) that runs some estimators on the Mac GPU via Apple Metal and falls back to CPU otherwise (pip install metalml; GPU path verified on an Intel Mac with an AMD Radeon Pro 5300M, Apple Silicon not validated yet).
 
 ## Something is missing?
 If you want to add a missing library, framework, tool simply open a pull request.
